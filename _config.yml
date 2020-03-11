@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: david.ventures
+title: merrique.photo
 email: david@merrique.me
 author:
   name: David Merrique
@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   @davidmerrique's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://david.ventures/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://merrique.photo/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidmerrique
 github_username: davidmerrique
 instagram_username: davidmerrique
