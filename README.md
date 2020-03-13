@@ -84,15 +84,15 @@ This command will serve the static page on your local machine. http://localhost:
 bundle exec jekyll serve
 ```
 
-You can also statically build your site to be uploaded to a regular webhost. 
+You can also statically build your site to be uploaded to a regular webhost.
 ```sh
 bundle exec jekyll build
 ```
 Now upload the contents of the _site/ directory to your webserver.
 
 ### Automating the build & upload with rsync
-Copy the bash script 'build-n-rsync.sh' from the _script directory to the root of your photo-stream folder. 
-Fill in the required credentials & run the script. It will build & upload your site. 
+Copy the bash script 'build-n-rsync.sh' from the _script directory to the root of your photo-stream folder.
+Fill in the required credentials & run the script. It will build & upload your site.
 
 ## Customize
 
@@ -129,6 +129,7 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 - [@benubois](https://github.com/benubois)
 - [@mattsacks](https://github.com/mattsacks)
 - [@pjaspers](https://github.com/pjaspers)
+- [@cloudz](https://github.com/cloudz)
 
 ## Known issues
 
